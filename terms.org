@@ -1,5 +1,42 @@
 * Tooling
-  - Compilation
+ * Text Editor
+   - Visual Studio Code / VS Code
+   - Atom
+   - Sublime
+   - Vim
+   - Emacs
+   - IntelliJ
+   - Eclipse
+   - Visual Studio
+*** Terminology 
+    - Syntax Highlighting
+    - Formatter
+    - Key bindings
+    - Snippets
+*** Compilation
+    - Compilation / Compiler
+    - Interpretation / Interpreter
+    - Just In Time Compilation (JIT)
+    - Intermediate Bytecode
+    - Assembly
+    - gcc
+* Open Source
+  - GNU
+  - MIT
+  - Free as in Beer
+  - OSS
+  - Creative Commons
+  - GPL
+  - License
+* Industry
+  - Microsoft
+  - Github
+  - Gitlab
+  - Bitbucket
+  - Venture Capitalist
+  - Angel Investor
+  - Apple
+  - Alphabet
 * Formats
  - Raster Image
  - Vector Image
@@ -70,14 +107,10 @@
 * Source Control
   - Git
   - Mercurial / Hg
-  - Subversion / SVN
-  - SVN Commit
-  - Check Out
-  - Team Foundation System / TFS
-  - Distributed Version/Source Control
-  - Github
-  - Bitbucket
-  - Gitlab
+** Subversion (SVN) / Team Foundation System (TFS)
+   - Commit
+   - Check Out
+** Distributed Version/Source Control
   - Pull Request
   - Fork
   - Merge
@@ -92,3 +125,4 @@
   - Rebase
   - Cherry Pick
   - Stage
+  - Ignore file
