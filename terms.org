@@ -1,0 +1,94 @@
+* Tooling
+  - Compilation
+* Formats
+ - Raster Image
+ - Vector Image
+** Encoding
+   - Utf-8
+   - Unicode
+   - ASCII
+* Word Wide Web / Web
+* Languages
+  - Elm
+  - Ruby
+  - Python
+  - C#
+  - Clojure
+  - Java
+  - Kotlin
+  - Objective C
+  - C
+  - C++
+  - Haskell
+  - F#
+  - Visual Basic (Clssic)
+  - Visual Basic .Net
+  - Scala
+  - HTML
+  - CSS
+  - SVG
+  - Powershell
+  - Perl
+  - Swift
+  - Prolog
+  - Javascript
+* Javascript
+*** Tooling
+    - Babel
+    - Webpack
+    - Npm
+    - Browserify
+    - Yarn
+    - Eslint
+    - Prettier
+    - Typescript
+*** Javascript Frameworks
+    - React
+    - Backbone
+    - Angular
+    - AngularJs
+    - Aurelia
+    - Vue
+* Databases
+  - DBMS
+  - GraphQL
+  - OData
+*** Relational
+    - Sql Server
+    - Oracle
+    - MySql
+    - Sqlite
+*** Document Db
+    - MongoDb
+    - CouchDb
+*** Graph Db
+    - Neo4j
+* CSS
+  - Flexbox
+  - CSS-Grid
+  - Bootstrap
+* Source Control
+  - Git
+  - Mercurial / Hg
+  - Subversion / SVN
+  - SVN Commit
+  - Check Out
+  - Team Foundation System / TFS
+  - Distributed Version/Source Control
+  - Github
+  - Bitbucket
+  - Gitlab
+  - Pull Request
+  - Fork
+  - Merge
+  - Branch
+  - Git / Hg
+  - Push
+  - Clone
+  - Add
+  - Commit
+  - Pull
+  - Fetch
+  - Rebase
+  - Cherry Pick
+  - Stage
