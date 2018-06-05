@@ -81,6 +81,7 @@
   - Microsoft
   - Apple
   - Github
+  - Kaggle
   - Gitlab
   - Bitbucket
   - Stackoverflow
@@ -141,6 +142,8 @@
    - HTTP/2
 * Languages
   - Elm
+  - R
+  - Mathematica
   - Ruby
     - Ruby on Rails
     - ActiveRecord
@@ -291,47 +294,8 @@
 * Internet of Things (IOT)
   - Raspberry Pi
   - Arduino
-* Theory
-  - Big O Notation
-  - Algorithms
-  - Data Structures
-  - Tree
-  - B-Tree
-  - Tail Call Optimization (TCO)
-  - Type Theory
-  - linked list
-  - Garbage Collection
-  - bit
-  - byte
-  - Computability
-  - Constraint Satisfaction
-  - Quantum Computing
-  - Turing Machine
-  - Lambda Calculus
-  - Caching
-  - Alan Kay
-  - Douglas Hofsteder
-  - John Von Neumann
-  - Alan Turing
-  - Donald Knuth
-  - Functional Programming (FP)
-  - Functional Reactive Programming (FRP)
-  - Object-Oriented Programming (OOP)
-  - Aspect Oriented Programming (AOP)
-  - Actor Model
-  - Procedural / Imperative Programming
-  - Logic Programming
-** Machine Learning (ML)
-  - Artificial Intelligence (AI)
-  - Neural Network
-  - Genetic Algorithm
-  - Back-propagation
-  - Dropout
-  - Supervised Learning
-  - Unsupervised Learning
-  - Tensorflow
-  - Pytorch
-  - Keras
+* Data Science
+  - Tableau
 * Coding
   - function
   - closure
@@ -384,3 +348,44 @@
   - integer / int
   - boolean / bool
   - primitive
+* Theory
+  - Big O Notation
+  - Algorithms
+  - Data Structures
+  - Tree
+  - B-Tree
+  - Tail Call Optimization (TCO)
+  - Type Theory
+  - linked list
+  - Garbage Collection
+  - bit
+  - byte
+  - Computability
+  - Constraint Satisfaction
+  - Quantum Computing
+  - Turing Machine
+  - Lambda Calculus
+  - Caching
+  - Alan Kay
+  - Douglas Hofsteder
+  - John Von Neumann
+  - Alan Turing
+  - Donald Knuth
+  - Functional Programming (FP)
+  - Functional Reactive Programming (FRP)
+  - Object-Oriented Programming (OOP)
+  - Aspect Oriented Programming (AOP)
+  - Actor Model
+  - Procedural / Imperative Programming
+  - Logic Programming
+** Machine Learning (ML)
+  - Artificial Intelligence (AI)
+  - Neural Network
+  - Genetic Algorithm
+  - Back-propagation
+  - Dropout
+  - Supervised Learning
+  - Unsupervised Learning
+  - Tensorflow
+  - Pytorch
+  - Keras
