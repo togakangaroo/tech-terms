@@ -1,25 +1,28 @@
 * Tooling
- * Text Editor
-   - Visual Studio Code / VS Code
-   - Atom
-   - Sublime
-   - Vim
-   - Emacs
-   - IntelliJ
-   - Eclipse
-   - Visual Studio
+  - Framework
+  - Library
+  - Service
+** Text Editor
+    - Visual Studio Code / VS Code
+    - Atom
+    - Sublime
+    - Vim
+    - Emacs
+    - IntelliJ
+    - Eclipse
+    - Visual Studio
 *** Terminology 
     - Syntax Highlighting
     - Formatter
     - Key bindings
     - Snippets
-*** Compilation
-    - Compilation / Compiler
-    - Interpretation / Interpreter
-    - Just In Time Compilation (JIT)
-    - Intermediate Bytecode
-    - Assembly
-    - gcc
+** Compilation
+   - Compilation / Compiler
+   - Interpretation / Interpreter
+   - Just In Time Compilation (JIT)
+   - Intermediate Bytecode
+   - Assembly
+   - gcc
 * Open Source
   - GNU
   - MIT
@@ -28,26 +31,72 @@
   - Creative Commons
   - GPL
   - License
+* Devops
+  - Docker
+  - Vagrant
+  - Ansible
+  - Kubernetes
+  - Continuous Integration
+  - Continuous Deployment
+* Practices
+  - Agile
+  - Scrum
+  - Kanban
+  - Test Driven Development (TDD)
+  - Behavior Driven Development (BDD)
+  - Domain Driven Development (DDD)
+* Patterns
+  - MVC
+  - MVVM
+  - Model-binding
+  - Unidirectional Dataflow
 * Industry
   - Microsoft
+  - Apple
   - Github
   - Gitlab
   - Bitbucket
+  - Stackoverflow
   - Venture Capitalist
   - Angel Investor
-  - Apple
   - Alphabet
+  - Slack
+  - Azure
+  - AWS
+  - SASS
+  - AWS Lambda
+  - Heroku
+  - Digital Ocean
+  - Cloudflare
+  - International Organization for Standardization (ISO)
+  - Unity 3D
+  - Unreal Engine
 * Formats
- - Raster Image
- - Vector Image
-** Encoding
+** Images
+  - Raster
+  - Vector
+** Text Encoding
    - Utf-8
    - Unicode
    - ASCII
-* Word Wide Web / Web
+* Networking
+  - SSL
+  - TLS
+  - OSI Model
+  - TCP
+  - IP
+  - UDP
+** Word Wide Web / Web
+   - HTTP
+   - HTTPS
+   - HTTP/2
 * Languages
   - Elm
   - Ruby
+  - Elixir
+  - Erlang
+  - COBOL
+  - Lisp
   - Python
   - C#
   - Clojure
@@ -57,7 +106,6 @@
   - C
   - C++
   - Haskell
-  - F#
   - Visual Basic (Clssic)
   - Visual Basic .Net
   - Scala
@@ -70,6 +118,7 @@
   - Prolog
   - Javascript
 * Javascript
+  - ECMAScript
 *** Tooling
     - Babel
     - Webpack
@@ -95,18 +144,28 @@
     - Oracle
     - MySql
     - Sqlite
+    - Postgres
 *** Document Db
     - MongoDb
     - CouchDb
+    - Elasticsearch
+*** Key / Value Store
+    - memcache
+    - Redis
+    - Riak
 *** Graph Db
     - Neo4j
 * CSS
   - Flexbox
   - CSS-Grid
   - Bootstrap
+  - SASS / SCSS
+  - LESS
+  - Autoprefixer
 * Source Control
   - Git
   - Mercurial / Hg
+  - Feature Branching
 ** Subversion (SVN) / Team Foundation System (TFS)
    - Commit
    - Check Out
