@@ -82,6 +82,8 @@
   - International Organization for Standardization (ISO)
   - Unity 3D
   - Unreal Engine
+  - Netscape
+  - Id Software
 * Patterns
   - MVC
   - MVVM
@@ -106,6 +108,9 @@
   - TCP
   - IP
   - UDP
+  - Router
+  - Switch
+  - Modem
 ** Word Wide Web / Web
    - HTTP
    - HTTPS
@@ -139,6 +144,8 @@
   - Javascript
 * Javascript
   - ECMAScript
+  - Douglas Crockford
+  - Brenden Eich
 *** Tooling
     - Babel
     - Webpack
@@ -148,6 +155,7 @@
     - Eslint
     - Prettier
     - Typescript
+    - Webassembly
 *** Javascript Frameworks
     - React
     - Backbone
@@ -155,6 +163,9 @@
     - AngularJs
     - Aurelia
     - Vue
+    - React Native
+    - Ionic
+    - Cordova
 * Databases
   - DBMS
   - GraphQL
@@ -223,6 +234,24 @@
    - Red Hat
    - Debian
    - Fedora
+   - bash
+   - zsh
 * Internet of Things (IOT)
   - Raspberry Pi
   - Arduino
+* Theory
+  - Big O Notation
+  - Algorithms
+  - Data Structures
+  - Tree
+  - B-Tree
+  - Tail Call Optimization (TCO)
+  - Type Theory
+  - Computability
+  - Turing Machine
+  - Lambda Calculus
+  - Alan Kay
+  - Douglas Hofsteder
+  - John Von Neumann
+  - Alan Turing
+  - Donald Knuth

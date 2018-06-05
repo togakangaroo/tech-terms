@@ -6,6 +6,8 @@ A repository of technical terms and definitions. Eventually to be converted to f
 
 ## Plan
 
+The idea is that this list is optimized for rote memorization - so each definition is short and presentable in flash-card format. The theory is that by memorizing this terminology, a beginner will get immediately situated within the terminology of the world of develoment.
+
 - [ ] Put together big, unsorted list of terms to define (aim for a few hundred terms)
 - [ ] Denormalize and flatten list
 - [ ] Define terms
