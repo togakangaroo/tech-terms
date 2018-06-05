@@ -2,6 +2,9 @@
   - Framework
   - Library
   - Service
+  - debugger
+  - breakpoint
+  - logging
 ** Text Editor
     - Visual Studio Code / VS Code
     - Atom
@@ -21,7 +24,8 @@
    - Interpretation / Interpreter
    - Just In Time Compilation (JIT)
    - Intermediate Bytecode
-   - Assembly
+   - Assembler
+   - assembly / dll
    - gcc
 * Open Source
   - GNU
@@ -40,6 +44,8 @@
   - Continuous Deployment
 * Practices
   - Agile
+  - Waterfall
+  - Rational Unified Process (RUP)
   - Scrum
   - Kanban
   - User Story
@@ -63,6 +69,8 @@
    - Test Driven Development (TDD)
    - Behavior Driven Development (BDD)
    - Integration tests
+   - Automated testing
+   - Executable Specification
    - Acceptance testing
    - Quality Assurance
    - Unit Testing
@@ -262,6 +270,7 @@
    - Thread Scheduler
    - Service / Daemon
    - Memory Management
+   - executable
 * Internet of Things (IOT)
   - Raspberry Pi
   - Arduino
@@ -273,12 +282,16 @@
   - B-Tree
   - Tail Call Optimization (TCO)
   - Type Theory
+  - linked list
   - Garbage Collection
+  - bit
+  - byte
   - Computability
   - Constraint Satisfaction
   - Quantum Computing
   - Turing Machine
   - Lambda Calculus
+  - Caching
   - Alan Kay
   - Douglas Hofsteder
   - John Von Neumann
@@ -287,6 +300,8 @@
   - Functional Programming (FP)
   - Functional Reactive Programming (FRP)
   - Object-Oriented Programming (OOP)
+  - Aspect Oriented Programming (AOP)
+  - Actor Model
   - Procedural / Imperative Programming
   - Logic Programming
 ** Machine Learning (ML)
@@ -300,3 +315,55 @@
   - Tensorflow
   - Pytorch
   - Keras
+* Coding
+  - function
+  - closure
+  - parameter
+  - argument
+  - class
+  - implements
+  - inherits / extends
+  - variable
+  - constant
+  - interface
+  - constructor
+  - super()
+  - constructor chaining
+  - base class
+  - mixin
+  - module
+  - module import
+  - public accessibility
+  - private accessibility
+  - protected accessibility
+  - hashset / dictionary / Map
+  - generator / enumerable
+  - iterator / enumerator
+  - expression
+  - expression tree
+  - s-expression
+  - comprehension
+  - loop
+  - foreach
+  - for loop
+  - while
+  - do...while
+  - block
+  - scope
+  - lexical scoping
+  - dynamic scoping
+  - hoisting
+  - field / attribute
+  - property
+  - method
+  - decorator / attribute / annotation
+  - string
+  - array
+  - map / select
+  - filter / where
+  - reduce / aggregate / fold
+  - float
+  - double
+  - integer / int
+  - boolean / bool
+  - primitive
