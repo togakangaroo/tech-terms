@@ -5,7 +5,8 @@
   - debugger
   - breakpoint
   - logging
-** Text Editor
+  - IDE
+** Text Editor / IDE
     - Visual Studio Code / VS Code
     - Atom
     - Sublime
