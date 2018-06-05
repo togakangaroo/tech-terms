@@ -270,8 +270,10 @@
    - Red Hat
    - Debian
    - Fedora
+   - Arch
    - bash
    - zsh
+   - fish
 ** Theory
    - Process
    - Thread
