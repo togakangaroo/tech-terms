@@ -120,6 +120,11 @@
    - Utf-8
    - Unicode
    - ASCII
+** Data Formats
+   - YAML
+   - XML
+   - JSON
+   - INI
 * Networking
   - SSL
   - TLS
