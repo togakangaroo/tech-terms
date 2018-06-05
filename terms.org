@@ -139,6 +139,7 @@
     - Ruby on Rails
     - ActiveRecord
   - Elixir
+    - Phoenix
   - Erlang
   - COBOL
   - Lisp
