@@ -42,14 +42,25 @@
   - Agile
   - Scrum
   - Kanban
-  - Test Driven Development (TDD)
-  - Behavior Driven Development (BDD)
-  - Domain Driven Development (DDD)
-* Patterns
-  - MVC
-  - MVVM
-  - Model-binding
-  - Unidirectional Dataflow
+  - DRY
+  - YAGNI
+  - Law of Demeter
+** SOLID
+   - Single Responsibility Principle
+   - Open/Closed Priniciple
+   - Liskov Subsitution Principle
+   - Interface Segregation Principle
+   - Dependency Inversion Principle
+   - Uncle Bob Martin
+** Testing
+   - Test Driven Development (TDD)
+   - Behavior Driven Development (BDD)
+   - Integration tests
+   - Acceptance testing
+   - Quality Assurance
+   - Unit Testing
+   - Code Coverage
+   - Mutation Testing
 * Industry
   - Microsoft
   - Apple
@@ -71,6 +82,15 @@
   - International Organization for Standardization (ISO)
   - Unity 3D
   - Unreal Engine
+* Patterns
+  - MVC
+  - MVVM
+  - Model-binding
+  - Unidirectional Dataflow
+  - Microservices
+  - Service Oriented Architecture
+  - Onion Architecture
+  - Domain Driven Development (DDD)
 * Formats
 ** Images
   - Raster
@@ -139,6 +159,7 @@
   - DBMS
   - GraphQL
   - OData
+  - Prepared Statements / Parameterized SQL
 *** Relational
     - Sql Server
     - Oracle
@@ -185,3 +206,23 @@
   - Cherry Pick
   - Stage
   - Ignore file
+* Security
+  - Phishing
+  - OWASP
+  - Cross Site Scripting (XSS)
+  - SQL Injection
+  - Cross Site Request Forgery (CSRF)
+  - Side channel attack
+* Operating Systems
+  - Windows
+  - OsX
+  - iOS
+  - Android
+** Linux
+   - Ubuntu
+   - Red Hat
+   - Debian
+   - Fedora
+* Internet of Things (IOT)
+  - Raspberry Pi
+  - Arduino
