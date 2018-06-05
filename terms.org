@@ -145,8 +145,6 @@
   - R
   - Mathematica
   - Ruby
-    - Ruby on Rails
-    - ActiveRecord
   - Elixir
     - Phoenix
   - Erlang
@@ -172,10 +170,41 @@
   - Swift
   - Prolog
   - Javascript
+* Ruby
+  - Ruby on Rails
+  - ActiveRecord
+  - Rake
+  - gem
+  - rvm
+* Python
+  - Django
+  - Flask
+  - Pypi
+  - Jupyter Notebooks
+  - Pip
+  - Pipenv
+* Java
+  - JVM
+  - Swing
+  - Spring Boot
+  - Spring
+  - Maven
+* .Net
+  - ASP.Net
+  - Winforms
+  - nuget
+  - Webforms
+  - WPF
+  - WCF
+  - .Net Core
+  - .Net Standard
+  - Mono
+  - Asp.Net Web Api
 * Javascript
   - ECMAScript
   - Douglas Crockford
   - Brenden Eich
+  - isomorphic
 *** Tooling
     - Babel
     - Webpack
