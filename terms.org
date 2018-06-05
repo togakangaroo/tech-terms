@@ -42,6 +42,13 @@
   - Agile
   - Scrum
   - Kanban
+  - User Story
+  - Design Persona
+  - Wireframes
+  - Prototype
+  - Sprint
+  - Standup
+  - Retrospective
   - DRY
   - YAGNI
   - Law of Demeter
@@ -84,9 +91,12 @@
   - Unreal Engine
   - Netscape
   - Id Software
+  - Trello
+  - Atlassian
 * Patterns
   - MVC
   - MVVM
+  - ORM
   - Model-binding
   - Unidirectional Dataflow
   - Microservices
@@ -118,6 +128,8 @@
 * Languages
   - Elm
   - Ruby
+    - Ruby on Rails
+    - ActiveRecord
   - Elixir
   - Erlang
   - COBOL
@@ -127,7 +139,7 @@
   - Clojure
   - Java
   - Kotlin
-  - Objective C
+  - Objective-C
   - C
   - C++
   - Haskell
@@ -171,6 +183,7 @@
   - GraphQL
   - OData
   - Prepared Statements / Parameterized SQL
+  - Migrations
 *** Relational
     - Sql Server
     - Oracle
@@ -224,18 +237,31 @@
   - SQL Injection
   - Cross Site Request Forgery (CSRF)
   - Side channel attack
+  - Buffer overflow
+  - Shellshock
+  - Heartbleed
+  - Meltdown & Spectre
+  - Shadow Brokers
 * Operating Systems
   - Windows
   - OsX
   - iOS
-  - Android
 ** Linux
+   - Android
    - Ubuntu
    - Red Hat
    - Debian
    - Fedora
    - bash
    - zsh
+** Theory
+   - Process
+   - Thread
+   - Kernel
+   - Kernel Space
+   - Thread Scheduler
+   - Service / Daemon
+   - Memory Management
 * Internet of Things (IOT)
   - Raspberry Pi
   - Arduino
@@ -247,7 +273,10 @@
   - B-Tree
   - Tail Call Optimization (TCO)
   - Type Theory
+  - Garbage Collection
   - Computability
+  - Constraint Satisfaction
+  - Quantum Computing
   - Turing Machine
   - Lambda Calculus
   - Alan Kay
@@ -255,3 +284,19 @@
   - John Von Neumann
   - Alan Turing
   - Donald Knuth
+  - Functional Programming (FP)
+  - Functional Reactive Programming (FRP)
+  - Object-Oriented Programming (OOP)
+  - Procedural / Imperative Programming
+  - Logic Programming
+** Machine Learning (ML)
+  - Artificial Intelligence (AI)
+  - Neural Network
+  - Genetic Algorithm
+  - Back-propagation
+  - Dropout
+  - Supervised Learning
+  - Unsupervised Learning
+  - Tensorflow
+  - Pytorch
+  - Keras
