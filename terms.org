@@ -1,3 +1,5 @@
+Look at [[https://glossarytech.com/terms/software_architecture/page2][Glossary Tech]], maybe scrape it
+
 * Tooling
   - Framework
   - Library
@@ -15,7 +17,7 @@
     - IntelliJ
     - Eclipse
     - Visual Studio
-*** Terminology 
+*** Terminology
     - Syntax Highlighting
     - Formatter
     - Key bindings
@@ -45,6 +47,7 @@
   - Continuous Deployment
 * Practices
   - Agile
+  - SOLID
   - Waterfall
   - Rational Unified Process (RUP)
   - Scrum
@@ -124,6 +127,7 @@
 ** Data Formats
    - YAML
    - XML
+     - XSLT
    - JSON
    - INI
 * Networking
@@ -170,6 +174,7 @@
   - Swift
   - Prolog
   - Javascript
+  - PHP
 * Ruby
   - Ruby on Rails
   - ActiveRecord
@@ -183,6 +188,7 @@
   - Jupyter Notebooks
   - Pip
   - Pipenv
+  - SqlAlchemy
 * Java
   - JVM
   - Swing
@@ -200,6 +206,7 @@
   - .Net Standard
   - Mono
   - Asp.Net Web Api
+  - Entity Framework
 * Javascript
   - ECMAScript
   - Douglas Crockford
@@ -325,6 +332,47 @@
   - Arduino
 * Data Science
   - Tableau
+* Theory
+  - Big O Notation
+  - Algorithms
+  - Data Structures
+  - Tree
+  - B-Tree
+  - Tail Call Optimization (TCO)
+  - Type Theory
+  - linked list
+  - Garbage Collection
+  - bit
+  - byte
+  - Computability
+  - Constraint Satisfaction
+  - Quantum Computing
+  - Turing Machine
+  - Lambda Calculus
+  - Caching
+  - Alan Kay
+  - Douglas Hofsteder
+  - John Von Neumann
+  - Alan Turing
+  - Donald Knuth
+  - Functional Programming (FP)
+  - Functional Reactive Programming (FRP)
+  - Object-Oriented Programming (OOP)
+  - Aspect Oriented Programming (AOP)
+  - Actor Model
+  - Procedural / Imperative Programming
+  - Logic Programming
+** Machine Learning (ML)
+  - Artificial Intelligence (AI)
+  - Neural Network
+  - Genetic Algorithm
+  - Back-propagation
+  - Dropout
+  - Supervised Learning
+  - Unsupervised Learning
+  - Tensorflow
+  - Pytorch
+  - Keras
 * Coding
   - function
   - closure
@@ -334,6 +382,7 @@
   - implements
   - inherits / extends
   - variable
+  - partial application
   - constant
   - interface
   - constructor
@@ -377,44 +426,3 @@
   - integer / int
   - boolean / bool
   - primitive
-* Theory
-  - Big O Notation
-  - Algorithms
-  - Data Structures
-  - Tree
-  - B-Tree
-  - Tail Call Optimization (TCO)
-  - Type Theory
-  - linked list
-  - Garbage Collection
-  - bit
-  - byte
-  - Computability
-  - Constraint Satisfaction
-  - Quantum Computing
-  - Turing Machine
-  - Lambda Calculus
-  - Caching
-  - Alan Kay
-  - Douglas Hofsteder
-  - John Von Neumann
-  - Alan Turing
-  - Donald Knuth
-  - Functional Programming (FP)
-  - Functional Reactive Programming (FRP)
-  - Object-Oriented Programming (OOP)
-  - Aspect Oriented Programming (AOP)
-  - Actor Model
-  - Procedural / Imperative Programming
-  - Logic Programming
-** Machine Learning (ML)
-  - Artificial Intelligence (AI)
-  - Neural Network
-  - Genetic Algorithm
-  - Back-propagation
-  - Dropout
-  - Supervised Learning
-  - Unsupervised Learning
-  - Tensorflow
-  - Pytorch
-  - Keras
