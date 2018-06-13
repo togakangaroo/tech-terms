@@ -8,6 +8,7 @@ Look at [[https://glossarytech.com/terms/software_architecture/page2][Glossary T
   - breakpoint
   - logging
   - IDE
+  - Chrome Devtools
 ** Text Editor / IDE
     - Visual Studio Code / VS Code
     - Atom
@@ -97,6 +98,7 @@ Look at [[https://glossarytech.com/terms/software_architecture/page2][Glossary T
   - SASS
   - AWS Lambda
   - Heroku
+  - TopCoder
   - Digital Ocean
   - Cloudflare
   - International Organization for Standardization (ISO)
@@ -144,6 +146,9 @@ Look at [[https://glossarytech.com/terms/software_architecture/page2][Glossary T
    - HTTP
    - HTTPS
    - HTTP/2
+   - Cross Origin Resource Sharing (CORS)
+   - Single Origin Policy (SOP)
+   - Content Security Policy (CSP)
 * Languages
   - Elm
   - R
