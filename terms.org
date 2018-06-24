@@ -1,238 +1,237 @@
 Look at [[https://glossarytech.com/terms/software_architecture/page2][Glossary Tech]], maybe scrape it
 
-* Tooling
-  - Framework
-  - Library
-  - Service
-  - debugger
-  - breakpoint
-  - logging
-  - IDE
-  - Chrome Devtools
-** Text Editor / IDE
-    - Visual Studio Code / VS Code
-    - Atom
-    - Sublime
-    - Vim
-    - Emacs
-    - IntelliJ
-    - Eclipse
-    - Visual Studio
-*** Terminology
-    - Syntax Highlighting
-    - Formatter
-    - Key bindings
-    - Snippets
-** Compilation
-   - Compilation / Compiler
-   - Interpretation / Interpreter
-   - Just In Time Compilation (JIT)
-   - Intermediate Bytecode
-   - Assembler
-   - assembly / dll
-   - gcc
-* Open Source
-  - GNU
-  - MIT
-  - Free as in Beer
-  - OSS
-  - Creative Commons
-  - GPL
-  - License
+* Tools
+* Framework
+* Library
+* Service
+* debugger
+* breakpoint
+* logging
+* IDE
+* Chrome Devtools
+* Text Editor
+* Integrated Development Environment (IDE)
+* Visual Studio Code / VS Code
+* Atom
+* Sublime
+* Vim
+* Emacs
+* IntelliJ
+* Eclipse
+* Visual Studio
+* Syntax Highlighting
+* Code Formatter
+* Key bindings
+* Snippets
+* Compilation / Compiler
+* Interpretation / Interpreter
+* Just In Time Compilation (JIT)
+* Intermediate Bytecode
+* Assembler
+* assembly / dll
+* gcc
+* GNU
+* MIT
+* Free as in Beer
+* Open Source Software (OSS)
+* Creative Commons
+* GPL
+* Open Source License
 * Devops
-  - Docker
-  - Vagrant
-  - Ansible
-  - Kubernetes
-  - Continuous Integration
-  - Continuous Deployment
-* Practices
-  - Agile
-  - SOLID
-  - Waterfall
-  - Rational Unified Process (RUP)
-  - Scrum
-  - Kanban
-  - User Story
-  - Design Persona
-  - Wireframes
-  - Prototype
-  - Sprint
-  - Standup
-  - Retrospective
-  - DRY
-  - YAGNI
-  - Law of Demeter
-** SOLID
-   - Single Responsibility Principle
-   - Open/Closed Priniciple
-   - Liskov Subsitution Principle
-   - Interface Segregation Principle
-   - Dependency Inversion Principle
-   - Uncle Bob Martin
-** Testing
-   - Test Driven Development (TDD)
-   - Behavior Driven Development (BDD)
-   - Integration tests
-   - Automated testing
-   - Executable Specification
-   - Acceptance testing
-   - Quality Assurance
-   - Unit Testing
-   - Code Coverage
-   - Mutation Testing
-* Industry
-  - Microsoft
-  - Apple
-  - Github
-  - Kaggle
-  - Gitlab
-  - Bitbucket
-  - Stackoverflow
-  - Venture Capitalist
-  - Angel Investor
-  - Alphabet
-  - Slack
-  - Azure
-  - AWS
-  - SASS
-  - AWS Lambda
-  - Heroku
-  - TopCoder
-  - Digital Ocean
-  - Cloudflare
-  - International Organization for Standardization (ISO)
-  - Unity 3D
-  - Unreal Engine
-  - Netscape
-  - Id Software
-  - Trello
-  - Atlassian
-* Patterns
-  - MVC
-  - MVVM
-  - ORM
-  - Model-binding
-  - Unidirectional Dataflow
-  - Microservices
-  - Service Oriented Architecture
-  - Onion Architecture
-  - Domain Driven Development (DDD)
-* Formats
-** Images
-  - Raster
-  - Vector
-** Text Encoding
-   - Utf-8
-   - Unicode
-   - ASCII
-** Data Formats
-   - YAML
-   - XML
-     - XSLT
-   - JSON
-   - INI
+* Docker
+* Docker Swarm
+* Vagrant
+* Ansible
+* Kubernetes
+* Continuous Integration
+* Continuous Deployment
+* Best Practices
+* Agile
+* SOLID Principles
+* Waterfall
+* Rational Unified Process (RUP)
+* Scrum
+* Code review
+* Pair Programming
+* Kanban
+* User Story
+* Design Persona
+* Wireframes
+* Prototype
+* Sprint
+* Standup
+* Retrospective
+* DRY
+* You Ain't Gonna Need It (YAGNI)
+* Law of Demeter
+* Single Responsibility Principle
+* Open/Closed Priniciple
+* Liskov Subsitution Principle
+* Interface Segregation Principle
+* Dependency Inversion Principle
+* (Uncle) Bob Martin
+* Software Testing
+* Test Driven Development (TDD)
+* Behavior Driven Development (BDD)
+* Integration tests
+* Automated testing
+* Executable Specification
+* Acceptance testing
+* Quality Assurance
+* Unit Testing
+* Code Coverage
+* Mutation Testing
+* Microsoft
+* Apple
+* Github
+* Kaggle
+* Gitlab
+* Bitbucket
+* StackOverflow
+* Venture Capitalist
+* Angel Investor
+* Alphabet
+* Slack
+* Azure
+* Amazon Web Services (AWS)
+* Software as a Service (SASS)
+* AWS Lambda
+* Heroku
+* TopCoder
+* Digital Ocean
+* Cloudflare
+* International Organization for Standardization (ISO)
+* Unity 3D
+* Unreal Engine
+* Netscape
+* Id Software
+* Facebook
+* Trello
+* Atlassian
+* Design Patterns
+* Model View Controller (MVC)
+* Model View View Model (MVVM)
+* Object Relational Mapper (ORM)
+* Model-binding
+* Unidirectional Dataflow
+* Microservices
+* Service Oriented Architecture
+* Onion Architecture
+* Domain Driven Design (DDD)
+* Raster Format Image
+* Vector Format Image
+* Text Encoding
+* UTF-8
+* Unicode
+* ASCII
+* Serialization
+* Data Format* YAML
+* Data Format - XML
+* Data Format - XSLT
+* Data Format - JSON
+* Data Format - INI
 * Networking
-  - SSL
-  - TLS
-  - OSI Model
-  - TCP
-  - IP
-  - UDP
-  - Router
-  - Switch
-  - Modem
-** Word Wide Web / Web
-   - HTTP
-   - HTTPS
-   - HTTP/2
-   - Cross Origin Resource Sharing (CORS)
-   - Single Origin Policy (SOP)
-   - Content Security Policy (CSP)
-* Languages
-  - Elm
-  - R
-  - Mathematica
-  - Ruby
-  - Elixir
-    - Phoenix
-  - Erlang
-  - COBOL
-  - Lisp
-  - Python
-  - C#
-  - Clojure
-  - Java
-  - Kotlin
-  - Objective-C
-  - C
-  - C++
-  - Haskell
-  - Visual Basic (Clssic)
-  - Visual Basic .Net
-  - Scala
-  - HTML
-  - CSS
-  - SVG
-  - Powershell
-  - Perl
-  - Swift
-  - Prolog
-  - Javascript
-  - PHP
+* Secure Socket Layer (SSL)
+* Transport Layer Security (TLS)
+* Open Systems Interconnection model (OSI model)
+* Transmission Control Protocol (TCP)
+* Internet Protocol (IP)
+* User Datagram Protocol (UDP)
+* Router
+* Switch
+* Modem
+* Word Wide Web / Web
+* Hypertext Transfer Protocol (HTTP)
+* HTTPS
+* HTTP/2
+* Cross Origin Resource Sharing (CORS)
+* Single Origin Policy (SOP)
+* Content Security Policy (CSP)
+* Programming Language
+* Elm
+* R
+* Mathematica
 * Ruby
-  - Ruby on Rails
-  - ActiveRecord
-  - Rake
-  - gem
-  - rvm
+* Elixir
+* Phoenix
+* Erlang
+* COBOL
+* Lisp
 * Python
-  - Django
-  - Flask
-  - Pypi
-  - Jupyter Notebooks
-  - Pip
-  - Pipenv
-  - SqlAlchemy
+* C#
+* Clojure
 * Java
-  - JVM
-  - Swing
-  - Spring Boot
-  - Spring
-  - Maven
-* .Net
-  - ASP.Net
-  - Winforms
-  - nuget
-  - Webforms
-  - WPF
-  - WCF
-  - .Net Core
-  - .Net Standard
-  - Mono
-  - Asp.Net Web Api
-  - Entity Framework
+* Kotlin
+* Objective-C
+* C
+* C++
+* Haskell
+* Visual Basic (Clssic)
+* Visual Basic .Net
+* Scala
+* HTML
+* Cascading Style Sheets (CSS)
+* Scalable Vector Graphic (SVG)
+* Powershell
+* Perl
+* Swift
+* Prolog
 * Javascript
-  - ECMAScript
-  - Douglas Crockford
-  - Brenden Eich
-  - isomorphic
-*** Tooling
-    - Babel
-    - Webpack
-    - Npm
-    - Browserify
-    - Yarn
-    - Eslint
-    - Prettier
-    - Typescript
-    - Webassembly
+* PHP
+* Ruby
+* Ruby on Rails
+* ActiveRecord
+* Rake
+* gem
+* rvm
+* Python
+* Django
+* Flask
+* Pypi
+* Jupyter Notebooks
+* Pip
+* Pipenv
+* SqlAlchemy
+* Java
+* Java Virtual Machine (JVM)
+* Swing
+* Spring Boot
+* Spring
+* Maven
+* .Net
+* ASP.Net
+* Winforms
+* Nuget
+* Webforms
+* Windows Presentation Foundation (WPF)
+* WIndows Communication Foundation (WCF)
+* .Net Core
+* .Net Standard
+* Mono
+* Asp.Net Web Api
+* Entity Framework
+* Javascript
+* ECMAScript
+* Douglas Crockford
+* Brenden Eich
+* isomorphic
+* Webassembly
+* Web Browser Web Worker
+* Web Browser Service Worker
+* Progressive Web App (PWA)
+* Babel
+* Webpack
+* Npm
+* Browserify
+* Yarn
+* Eslint
+* Prettier
+* Typescript
 *** Javascript Frameworks
     - React
     - Backbone
     - Angular
     - AngularJs
-    - Aurelia
     - Vue
     - React Native
     - Ionic
@@ -431,3 +430,4 @@ Look at [[https://glossarytech.com/terms/software_architecture/page2][Glossary T
   - integer / int
   - boolean / bool
   - primitive
+  - generics
