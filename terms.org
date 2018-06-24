@@ -1,435 +1,438 @@
 Look at [[https://glossarytech.com/terms/software_architecture/page2][Glossary Tech]], maybe scrape it
 
-* Tools
-* Framework
-* Library
-* Service
-* debugger
-* breakpoint
-* logging
-* IDE
-* Chrome Devtools
-* Text Editor
-* Integrated Development Environment (IDE)
-* Visual Studio Code / VS Code
-* Atom
-* Sublime
-* Vim
-* Emacs
-* IntelliJ
-* Eclipse
-* Visual Studio
-* Syntax Highlighting
-* Code Formatter
-* Key bindings
-* Snippets
-* Compilation / Compiler
-* Interpretation / Interpreter
-* Just In Time Compilation (JIT)
-* Intermediate Bytecode
-* Assembler
-* assembly / dll
-* gcc
-* GNU
-* MIT
-* Free as in Beer
-* Open Source Software (OSS)
-* Creative Commons
-* GPL
-* Open Source License
-* Devops
-* Docker
-* Docker Swarm
-* Vagrant
-* Ansible
-* Kubernetes
-* Continuous Integration
-* Continuous Deployment
-* Best Practices
-* Agile
-* SOLID Principles
-* Waterfall
-* Rational Unified Process (RUP)
-* Scrum
-* Code review
-* Pair Programming
-* Kanban
-* User Story
-* Design Persona
-* Wireframes
-* Prototype
-* Sprint
-* Standup
-* Retrospective
-* DRY
-* You Ain't Gonna Need It (YAGNI)
-* Law of Demeter
-* Single Responsibility Principle
-* Open/Closed Priniciple
-* Liskov Subsitution Principle
-* Interface Segregation Principle
-* Dependency Inversion Principle
-* (Uncle) Bob Martin
-* Software Testing
-* Test Driven Development (TDD)
-* Behavior Driven Development (BDD)
-* Integration tests
-* Automated testing
-* Executable Specification
-* Acceptance testing
-* Quality Assurance
-* Unit Testing
-* Code Coverage
-* Mutation Testing
-* Microsoft
-* Apple
-* Github
-* Kaggle
-* Gitlab
-* Bitbucket
-* StackOverflow
-* Venture Capitalist
-* Angel Investor
-* Alphabet
-* Slack
-* Azure
-* Amazon Web Services (AWS)
-* Software as a Service (SASS)
-* AWS Lambda
-* Heroku
-* TopCoder
-* Digital Ocean
-* Cloudflare
-* International Organization for Standardization (ISO)
-* Unity 3D
-* Unreal Engine
-* Netscape
-* Id Software
-* Facebook
-* Trello
-* Atlassian
-* Design Patterns
-* Model View Controller (MVC)
-* Model View View Model (MVVM)
-* Object Relational Mapper (ORM)
-* Model-binding
-* Unidirectional Dataflow
-* Microservices
-* Service Oriented Architecture
-* Onion Architecture
-* Domain Driven Design (DDD)
-* Raster Format Image
-* Vector Format Image
-* Text Encoding
-* UTF-8
-* Unicode
-* ASCII
-* Serialization
-* Data Format* YAML
-* Data Format - XML
-* Data Format - XSLT
-* Data Format - JSON
-* Data Format - INI
-* Networking
-* Secure Socket Layer (SSL)
-* Transport Layer Security (TLS)
-* Open Systems Interconnection model (OSI model)
-* Transmission Control Protocol (TCP)
-* Internet Protocol (IP)
-* User Datagram Protocol (UDP)
-* Router
-* Switch
-* Modem
-* Word Wide Web / Web
-* Hypertext Transfer Protocol (HTTP)
-* HTTPS
-* HTTP/2
-* Cross Origin Resource Sharing (CORS)
-* Single Origin Policy (SOP)
-* Content Security Policy (CSP)
-* Programming Language
-* Elm
-* R
-* Mathematica
-* Ruby
-* Elixir
-* Phoenix
-* Erlang
-* COBOL
-* Lisp
-* Python
-* C#
-* Clojure
-* Java
-* Kotlin
-* Objective-C
-* C
-* C++
-* Haskell
-* Visual Basic (Clssic)
-* Visual Basic .Net
-* Scala
-* HTML
-* Cascading Style Sheets (CSS)
-* Scalable Vector Graphic (SVG)
-* Powershell
-* Perl
-* Swift
-* Prolog
-* Javascript
-* PHP
-* Ruby
-* Ruby on Rails
-* ActiveRecord
-* Rake
-* gem
-* rvm
-* Python
-* Django
-* Flask
-* Pypi
-* Jupyter Notebooks
-* Pip
-* Pipenv
-* SqlAlchemy
-* Java
-* Java Virtual Machine (JVM)
-* Swing
-* Spring Boot
-* Spring
-* Maven
-* .Net
-* ASP.Net
-* Winforms
-* Nuget
-* Webforms
-* Windows Presentation Foundation (WPF)
-* WIndows Communication Foundation (WCF)
-* .Net Core
-* .Net Standard
-* Mono
-* Asp.Net Web Api
-* Entity Framework
-* Javascript
-* ECMAScript
-* Douglas Crockford
-* Brenden Eich
-* User Interface (UI)
-* User Experience (UX) Design
-* isomorphic
-* Webassembly
-* Web Browser Web Worker
-* Web Browser Service Worker
-* Progressive Web App (PWA)
-* Babel
-* Webpack
-* Npm
-* Browserify
-* Yarn
-* Eslint
-* Prettier
-* Typescript
-* UI Frameworks
-* ReactJs
-* BackboneJs
-* Angular
-* AngularJs
-* VueJs
-* React Native
-* Ionic
-* Cordova
-* Database / Database Managment System (DBMS)
-* GraphQL
-* OData
-* Prepared Statements / Parameterized SQL
-* Database Migrations
-* Cache
-* Relational Database
-* Sql Server
-* Oracle
-* MySql
-* Sqlite
-* Postgres
-* Document Database
-* MongoDb
-* CouchDb
-* Elasticsearch
-* Key / Value Store
-* memcache
-* Redis
-* Riak
-* Graph Database
-* Neo4j
-* Flexbox
-* CSS-Grid
-* Bootstrap
-* SASS / SCSS
-* LESS
-* Autoprefixer
-* PostCSS
-* Stylelint
-* CSSLint
-* CSS Frameworks
-* Tailwind CSS
-* Tachyons
-* Bulma
-* Source Control
-* Git
-* Mercurial / Hg
-* Feature Branching
-* Subversion (SVN) / Team Foundation System (TFS)
-* Commit (Source Control)
-* Subversion Check Out
-* Distributed Version/Source Control System (DVCS)
-* Pull Request
-* Fork
-* Merge (Source Control)
-* Branch
-* Push
-* Clone (Source Control)
-* Git Add
-* Pull (Source Control)
-* Rebase
-* Cherry Pick (Source Control)
-* Stage (Source Control)
-* Ignore file (Source Control)
-* Accessibility
-* Web Accessibility Initiative (WAI)
-* Web Content Accessibility Guidelines (WCAG)
-* Aria Roles
-* Security
-* Phishing
-* OWASP
-* Cross Site Scripting (XSS)
-* SQL Injection
-* Cross Site Request Forgery (CSRF)
-* Side channel attack
-* Buffer overflow
-* Shellshock
-* Heartbleed
-* Meltdown & Spectre
-* Nonce (Cryptography)
-* Cryptographically Secure
-* Public / Private Key Encryption
-* Shadow Brokers
-* Operating Systems
-* Windows
-* OsX
-* iOS
-* Linux
-* Android
-* Ubuntu
-* Red Hat
-* Debian
-* Fedora
-* Arch
-* bash
-* zsh
-* fish shell
-* Process (Operating System)
-* Thread
-* Kernel
-* Kernel Space
-* Thread Scheduler
-* Service / Daemon
-* Memory Management
-* executable
-* Internet of Things (IOT)
-* Raspberry Pi
-* Arduino
-* Data Science
+
+| Tools |  |
+| Framework |  |
+| Library |  |
+| Service |  |
+| debugger |  |
+| breakpoint |  |
+| logging |  |
+| IDE |  |
+| Chrome Devtools |  |
+| Text Editor |  |
+| Integrated Development Environment (IDE) |  |
+| Visual Studio Code / VS Code |  |
+| Atom |  |
+| Sublime |  |
+| Vim |  |
+| Emacs |  |
+| IntelliJ |  |
+| Eclipse |  |
+| Visual Studio |  |
+| Syntax Highlighting |  |
+| Code Formatter |  |
+| Key bindings |  |
+| Snippets |  |
+| Compilation / Compiler |  |
+| Interpretation / Interpreter |  |
+| Just In Time Compilation (JIT) |  |
+| Intermediate Bytecode |  |
+| Assembler |  |
+| assembly / dll |  |
+| gcc |  |
+| GNU |  |
+| MIT |  |
+| Free as in Beer |  |
+| Open Source Software (OSS) |  |
+| Creative Commons |  |
+| GPL |  |
+| Open Source License |  |
+| Devops |  |
+| Docker |  |
+| Docker Swarm |  |
+| Vagrant |  |
+| Ansible |  |
+| Kubernetes |  |
+| Continuous Integration |  |
+| Continuous Deployment |  |
+| Best Practices |  |
+| Agile |  |
+| SOLID Principles |  |
+| Waterfall |  |
+| Rational Unified Process (RUP) |  |
+| Scrum |  |
+| Code review |  |
+| Pair Programming |  |
+| Kanban |  |
+| User Story |  |
+| Design Persona |  |
+| Wireframes |  |
+| Prototype |  |
+| Sprint |  |
+| Standup |  |
+| Retrospective |  |
+| DRY |  |
+| You Ain't Gonna Need It (YAGNI) |  |
+| Law of Demeter |  |
+| Single Responsibility Principle |  |
+| Open/Closed Priniciple |  |
+| Liskov Subsitution Principle |  |
+| Interface Segregation Principle |  |
+| Dependency Inversion Principle |  |
+| (Uncle) Bob Martin |  |
+| Software Testing |  |
+| Test Driven Development (TDD) |  |
+| Behavior Driven Development (BDD) |  |
+| Integration tests |  |
+| Automated testing |  |
+| Executable Specification |  |
+| Acceptance testing |  |
+| Quality Assurance |  |
+| Unit Testing |  |
+| Code Coverage |  |
+| Mutation Testing |  |
+| Microsoft |  |
+| Apple |  |
+| Github |  |
+| Kaggle |  |
+| Gitlab |  |
+| Bitbucket |  |
+| StackOverflow |  |
+| Venture Capitalist |  |
+| Angel Investor |  |
+| Alphabet |  |
+| Slack |  |
+| Azure |  |
+| Amazon Web Services (AWS) |  |
+| Software as a Service (SASS) |  |
+| AWS Lambda |  |
+| Heroku |  |
+| TopCoder |  |
+| Digital Ocean |  |
+| Cloudflare |  |
+| International Organization for Standardization (ISO) |  |
+| Unity 3D |  |
+| Unreal Engine |  |
+| Netscape |  |
+| Id Software |  |
+| Facebook |  |
+| Trello |  |
+| Atlassian |  |
+| Design Patterns |  |
+| Model View Controller (MVC) |  |
+| Model View View Model (MVVM) |  |
+| Object Relational Mapper (ORM) |  |
+| Model-binding |  |
+| Unidirectional Dataflow |  |
+| Microservices |  |
+| Service Oriented Architecture |  |
+| Onion Architecture |  |
+| Domain Driven Design (DDD) |  |
+| Raster Format Image |  |
+| Vector Format Image |  |
+| Text Encoding |  |
+| UTF-8 |  |
+| Unicode |  |
+| ASCII |  |
+| Serialization |  |
+| Data Format* YAML |  |
+| Data Format - XML |  |
+| Data Format - XSLT |  |
+| Data Format - JSON |  |
+| Data Format - INI |  |
+| Networking |  |
+| Secure Socket Layer (SSL) |  |
+| Transport Layer Security (TLS) |  |
+| Open Systems Interconnection model (OSI model) |  |
+| Transmission Control Protocol (TCP) |  |
+| Internet Protocol (IP) |  |
+| User Datagram Protocol (UDP) |  |
+| Router |  |
+| Switch |  |
+| Modem |  |
+| Word Wide Web / Web |  |
+| Hypertext Transfer Protocol (HTTP) |  |
+| HTTPS |  |
+| HTTP/2 |  |
+| Cross Origin Resource Sharing (CORS) |  |
+| Single Origin Policy (SOP) |  |
+| Content Security Policy (CSP) |  |
+| Programming Language |  |
+| Elm |  |
+| R |  |
+| Mathematica |  |
+| Ruby |  |
+| Elixir |  |
+| Phoenix |  |
+| Erlang |  |
+| COBOL |  |
+| Lisp |  |
+| Python |  |
+| C# |  |
+| Clojure |  |
+| Java |  |
+| Kotlin |  |
+| Objective-C |  |
+| C |  |
+| C++ |  |
+| Haskell |  |
+| Visual Basic (Clssic) |  |
+| Visual Basic .Net |  |
+| Scala |  |
+| HTML |  |
+| Cascading Style Sheets (CSS) |  |
+| Scalable Vector Graphic (SVG) |  |
+| Powershell |  |
+| Perl |  |
+| Swift |  |
+| Prolog |  |
+| Javascript |  |
+| PHP |  |
+| Ruby |  |
+| Ruby on Rails |  |
+| ActiveRecord |  |
+| Rake |  |
+| gem |  |
+| rvm |  |
+| Python |  |
+| Django |  |
+| Flask |  |
+| Pypi |  |
+| Jupyter Notebooks |  |
+| Pip |  |
+| Pipenv |  |
+| SqlAlchemy |  |
+| Java |  |
+| Java Virtual Machine (JVM) |  |
+| Swing |  |
+| Spring Boot |  |
+| Spring |  |
+| Maven |  |
+| .Net |  |
+| ASP.Net |  |
+| Winforms |  |
+| Nuget |  |
+| Webforms |  |
+| Windows Presentation Foundation (WPF) |  |
+| WIndows Communication Foundation (WCF) |  |
+| .Net Core |  |
+| .Net Standard |  |
+| Mono |  |
+| Asp.Net Web Api |  |
+| Entity Framework |  |
+| Javascript |  |
+| ECMAScript |  |
+| Douglas Crockford |  |
+| Brenden Eich |  |
+| User Interface (UI) |  |
+| User Experience (UX) Design |  |
+| isomorphic |  |
+| Webassembly |  |
+| Web Browser Web Worker |  |
+| Web Browser Service Worker |  |
+| Progressive Web App (PWA) |  |
+| Babel |  |
+| Webpack |  |
+| Npm |  |
+| Browserify |  |
+| Yarn |  |
+| Eslint |  |
+| Prettier |  |
+| Typescript |  |
+| UI Frameworks |  |
+| ReactJs |  |
+| BackboneJs |  |
+| Angular |  |
+| AngularJs |  |
+| VueJs |  |
+| React Native |  |
+| Ionic |  |
+| Cordova |  |
+| Database / Database Managment System (DBMS) |  |
+| GraphQL |  |
+| OData |  |
+| Prepared Statements / Parameterized SQL |  |
+| Database Migrations |  |
+| Cache |  |
+| Relational Database |  |
+| Sql Server |  |
+| Oracle |  |
+| MySql |  |
+| Sqlite |  |
+| Postgres |  |
+| Document Database |  |
+| MongoDb |  |
+| CouchDb |  |
+| Elasticsearch |  |
+| Key / Value Store |  |
+| memcache |  |
+| Redis |  |
+| Riak |  |
+| Graph Database |  |
+| Neo4j |  |
+| Flexbox |  |
+| CSS-Grid |  |
+| Bootstrap |  |
+| SASS / SCSS |  |
+| LESS |  |
+| Autoprefixer |  |
+| PostCSS |  |
+| Stylelint |  |
+| CSSLint |  |
+| CSS Frameworks |  |
+| Tailwind CSS |  |
+| Tachyons |  |
+| Bulma |  |
+| Source Control |  |
+| Git |  |
+| Mercurial / Hg |  |
+| Feature Branching |  |
+| Subversion (SVN) / Team Foundation System (TFS) |  |
+| Commit (Source Control) |  |
+| Subversion Check Out |  |
+| Distributed Version/Source Control System (DVCS) |  |
+| Pull Request |  |
+| Fork |  |
+| Merge (Source Control) |  |
+| Branch |  |
+| Push |  |
+| Clone (Source Control) |  |
+| Git Add |  |
+| Pull (Source Control) |  |
+| Rebase |  |
+| Cherry Pick (Source Control) |  |
+| Stage (Source Control) |  |
+| Ignore file (Source Control) |  |
+| Accessibility |  |
+| Web Accessibility Initiative (WAI) |  |
+| Web Content Accessibility Guidelines (WCAG) |  |
+| Aria Roles |  |
+| Security |  |
+| Phishing |  |
+| OWASP |  |
+| Cross Site Scripting (XSS) |  |
+| SQL Injection |  |
+| Cross Site Request Forgery (CSRF) |  |
+| Side channel attack |  |
+| Buffer overflow |  |
+| Shellshock |  |
+| Heartbleed |  |
+| Meltdown & Spectre |  |
+| Nonce (Cryptography) |  |
+| Cryptographically Secure |  |
+| Public / Private Key Encryption |  |
+| Shadow Brokers |  |
+| Operating Systems |  |
+| Windows |  |
+| OsX |  |
+| iOS |  |
+| Linux |  |
+| Android |  |
+| Ubuntu |  |
+| Red Hat |  |
+| Debian |  |
+| Fedora |  |
+| Arch |  |
+| bash |  |
+| zsh |  |
+| fish shell |  |
+| Process (Operating System) |  |
+| Thread |  |
+| Kernel |  |
+| Kernel Space |  |
+| Thread Scheduler |  |
+| Service / Daemon |  |
+| Memory Management |  |
+| executable |  |
+| Internet of Things (IOT) |  |
+| Raspberry Pi |  |
+| Arduino |  |
+| Data Science |  |
   - Tableau
-* Big O Notation
-* Algorithms
-* Data Structures
-* Tree
-* B-Tree
-* Tail Call Optimization (TCO)
-* Type Theory
-* linked list
-* Garbage Collection
-* bit
-* byte
-* Computability
-* Constraint Satisfaction
-* Quantum Computing
-* Turing Machine
-* Lambda Calculus
-* Caching
-* Alan Kay
-* Douglas Hofsteder
-* John Von Neumann
-* Alan Turing
-* Donald Knuth
-* Functional Programming (FP)
-* Functional Reactive Programming (FRP)
-* Object-Oriented Programming (OOP)
-* Aspect Oriented Programming (AOP)
-* Actor Model
-* Procedural / Imperative Programming
-* Logic Programming
-* Machine Learning (ML)
-* Artificial Intelligence (AI)
-* Neural Network
-* Genetic Algorithm
-* Back-propagation
-* Dropout (Machine Learning)
-* Supervised Learning
-* Unsupervised Learning
-* Tensorflow
-* Pytorch
-* Keras
-* Coding
-* function (coding)
-* closure (coding)
-* parameter (coding)
-* argument (coding)
-* class
-* implements (coding)
-* inherits / extends (coding)
-* variable (coding)
-* partial application
-* constant (coding)
-* interface (coding)
-* constructor (coding)
-* super()
-* constructor chaining
-* base class (coding)
-* mixin (coding)
-* module (coding)
-* module import (coding)
-* public accessibility
-* private accessibility
-* protected accessibility
-* hashset / dictionary / Map
-* generator / enumerable
-* iterator / enumerator
-* expression (coding)
-* expression tree
-* s-expression
-* comprehension (coding)
-* loop (coding)
-* foreach
-* for loop
-* while
-* do...while
-* block (coding)
-* scope (coding)
-* lexical scoping
-* dynamic scoping
-* hoisting (coding)
-* field / attribute (coding)
-* property (coding)
-* method (coding)
-* decorator / attribute / annotation (coding)
-* string
-* array
-* map / select
-* filter / where
-* reduce / aggregate / fold
-* float (coding)
-* double (coding)
-* integer / int
-* boolean / bool
-* primitive (coding)
-* generics (coding)
+| Big O Notation |  |
+| Algorithms |  |
+| Data Structures |  |
+| Tree |  |
+| B-Tree |  |
+| Tail Call Optimization (TCO) |  |
+| Type Theory |  |
+| linked list |  |
+| Garbage Collection |  |
+| bit |  |
+| byte |  |
+| Computability |  |
+| Constraint Satisfaction |  |
+| Quantum Computing |  |
+| Turing Machine |  |
+| Lambda Calculus |  |
+| Caching |  |
+| Alan Kay |  |
+| Douglas Hofsteder |  |
+| John Von Neumann |  |
+| Alan Turing |  |
+| Donald Knuth |  |
+| Functional Programming (FP) |  |
+| Functional Reactive Programming (FRP) |  |
+| Object-Oriented Programming (OOP) |  |
+| Aspect Oriented Programming (AOP) |  |
+| Actor Model |  |
+| Procedural / Imperative Programming |  |
+| Logic Programming |  |
+| Machine Learning (ML) |  |
+| Artificial Intelligence (AI) |  |
+| Neural Network |  |
+| Genetic Algorithm |  |
+| Back-propagation |  |
+| Dropout (Machine Learning) |  |
+| Supervised Learning |  |
+| Unsupervised Learning |  |
+| Tensorflow |  |
+| Pytorch |  |
+| Keras |  |
+| Coding |  |
+| function (coding) |  |
+| closure (coding) |  |
+| parameter (coding) |  |
+| argument (coding) |  |
+| class |  |
+| implements (coding) |  |
+| inherits / extends (coding) |  |
+| variable (coding) |  |
+| partial application |  |
+| constant (coding) |  |
+| interface (coding) |  |
+| constructor (coding) |  |
+| super() |  |
+| constructor chaining |  |
+| base class (coding) |  |
+| mixin (coding) |  |
+| module (coding) |  |
+| module import (coding) |  |
+| public accessibility |  |
+| private accessibility |  |
+| protected accessibility |  |
+| hashset / dictionary / Map |  |
+| generator / enumerable |  |
+| iterator / enumerator |  |
+| expression (coding) |  |
+| expression tree |  |
+| s-expression |  |
+| comprehension (coding) |  |
+| loop (coding) |  |
+| foreach |  |
+| for loop |  |
+| while |  |
+| do...while |  |
+| block (coding) |  |
+| scope (coding) |  |
+| lexical scoping |  |
+| dynamic scoping |  |
+| hoisting (coding) |  |
+| field / attribute (coding) |  |
+| property (coding) |  |
+| method (coding) |  |
+| decorator / attribute / annotation (coding) |  |
+| string |  |
+| array |  |
+| map / select |  |
+| filter / where |  |
+| reduce / aggregate / fold |  |
+| float (coding) |  |
+| double (coding) |  |
+| integer / int |  |
+| boolean / bool |  |
+| primitive (coding) |  |
+| generics (coding) |  |
+| Koans |  |
+| Code Kata |  |
