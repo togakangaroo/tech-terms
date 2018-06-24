@@ -214,6 +214,8 @@ Look at [[https://glossarytech.com/terms/software_architecture/page2][Glossary T
 * ECMAScript
 * Douglas Crockford
 * Brenden Eich
+* User Interface (UI)
+* User Experience (UX) Design
 * isomorphic
 * Webassembly
 * Web Browser Web Worker
@@ -227,207 +229,207 @@ Look at [[https://glossarytech.com/terms/software_architecture/page2][Glossary T
 * Eslint
 * Prettier
 * Typescript
-*** Javascript Frameworks
-    - React
-    - Backbone
-    - Angular
-    - AngularJs
-    - Vue
-    - React Native
-    - Ionic
-    - Cordova
-* Databases
-  - DBMS
-  - GraphQL
-  - OData
-  - Prepared Statements / Parameterized SQL
-  - Migrations
-*** Relational
-    - Sql Server
-    - Oracle
-    - MySql
-    - Sqlite
-    - Postgres
-*** Document Db
-    - MongoDb
-    - CouchDb
-    - Elasticsearch
-*** Key / Value Store
-    - memcache
-    - Redis
-    - Riak
-*** Graph Db
-    - Neo4j
-* CSS
-  - Flexbox
-  - CSS-Grid
-  - Bootstrap
-  - SASS / SCSS
-  - LESS
-  - Autoprefixer
-*** Tooling
-  - PostCSS
-  - Stylelint
-  - CSSLint
-*** CSS Frameworks
-  - Tailwind CSS
-  - Tachyons
-  - Bulma
+* UI Frameworks
+* ReactJs
+* BackboneJs
+* Angular
+* AngularJs
+* VueJs
+* React Native
+* Ionic
+* Cordova
+* Database / Database Managment System (DBMS)
+* GraphQL
+* OData
+* Prepared Statements / Parameterized SQL
+* Database Migrations
+* Cache
+* Relational Database
+* Sql Server
+* Oracle
+* MySql
+* Sqlite
+* Postgres
+* Document Database
+* MongoDb
+* CouchDb
+* Elasticsearch
+* Key / Value Store
+* memcache
+* Redis
+* Riak
+* Graph Database
+* Neo4j
+* Flexbox
+* CSS-Grid
+* Bootstrap
+* SASS / SCSS
+* LESS
+* Autoprefixer
+* PostCSS
+* Stylelint
+* CSSLint
+* CSS Frameworks
+* Tailwind CSS
+* Tachyons
+* Bulma
 * Source Control
-  - Git
-  - Mercurial / Hg
-  - Feature Branching
-** Subversion (SVN) / Team Foundation System (TFS)
-   - Commit
-   - Check Out
-** Distributed Version/Source Control
-  - Pull Request
-  - Fork
-  - Merge
-  - Branch
-  - Git / Hg
-  - Push
-  - Clone
-  - Add
-  - Commit
-  - Pull
-  - Fetch
-  - Rebase
-  - Cherry Pick
-  - Stage
-  - Ignore file
+* Git
+* Mercurial / Hg
+* Feature Branching
+* Subversion (SVN) / Team Foundation System (TFS)
+* Commit (Source Control)
+* Subversion Check Out
+* Distributed Version/Source Control System (DVCS)
+* Pull Request
+* Fork
+* Merge (Source Control)
+* Branch
+* Push
+* Clone (Source Control)
+* Git Add
+* Pull (Source Control)
+* Rebase
+* Cherry Pick (Source Control)
+* Stage (Source Control)
+* Ignore file (Source Control)
+* Accessibility
+* Web Accessibility Initiative (WAI)
+* Web Content Accessibility Guidelines (WCAG)
+* Aria Roles
 * Security
-  - Phishing
-  - OWASP
-  - Cross Site Scripting (XSS)
-  - SQL Injection
-  - Cross Site Request Forgery (CSRF)
-  - Side channel attack
-  - Buffer overflow
-  - Shellshock
-  - Heartbleed
-  - Meltdown & Spectre
-  - Shadow Brokers
+* Phishing
+* OWASP
+* Cross Site Scripting (XSS)
+* SQL Injection
+* Cross Site Request Forgery (CSRF)
+* Side channel attack
+* Buffer overflow
+* Shellshock
+* Heartbleed
+* Meltdown & Spectre
+* Nonce (Cryptography)
+* Cryptographically Secure
+* Public / Private Key Encryption
+* Shadow Brokers
 * Operating Systems
-  - Windows
-  - OsX
-  - iOS
-** Linux
-   - Android
-   - Ubuntu
-   - Red Hat
-   - Debian
-   - Fedora
-   - Arch
-   - bash
-   - zsh
-   - fish
-** Theory
-   - Process
-   - Thread
-   - Kernel
-   - Kernel Space
-   - Thread Scheduler
-   - Service / Daemon
-   - Memory Management
-   - executable
+* Windows
+* OsX
+* iOS
+* Linux
+* Android
+* Ubuntu
+* Red Hat
+* Debian
+* Fedora
+* Arch
+* bash
+* zsh
+* fish shell
+* Process (Operating System)
+* Thread
+* Kernel
+* Kernel Space
+* Thread Scheduler
+* Service / Daemon
+* Memory Management
+* executable
 * Internet of Things (IOT)
-  - Raspberry Pi
-  - Arduino
+* Raspberry Pi
+* Arduino
 * Data Science
   - Tableau
-* Theory
-  - Big O Notation
-  - Algorithms
-  - Data Structures
-  - Tree
-  - B-Tree
-  - Tail Call Optimization (TCO)
-  - Type Theory
-  - linked list
-  - Garbage Collection
-  - bit
-  - byte
-  - Computability
-  - Constraint Satisfaction
-  - Quantum Computing
-  - Turing Machine
-  - Lambda Calculus
-  - Caching
-  - Alan Kay
-  - Douglas Hofsteder
-  - John Von Neumann
-  - Alan Turing
-  - Donald Knuth
-  - Functional Programming (FP)
-  - Functional Reactive Programming (FRP)
-  - Object-Oriented Programming (OOP)
-  - Aspect Oriented Programming (AOP)
-  - Actor Model
-  - Procedural / Imperative Programming
-  - Logic Programming
-** Machine Learning (ML)
-  - Artificial Intelligence (AI)
-  - Neural Network
-  - Genetic Algorithm
-  - Back-propagation
-  - Dropout
-  - Supervised Learning
-  - Unsupervised Learning
-  - Tensorflow
-  - Pytorch
-  - Keras
+* Big O Notation
+* Algorithms
+* Data Structures
+* Tree
+* B-Tree
+* Tail Call Optimization (TCO)
+* Type Theory
+* linked list
+* Garbage Collection
+* bit
+* byte
+* Computability
+* Constraint Satisfaction
+* Quantum Computing
+* Turing Machine
+* Lambda Calculus
+* Caching
+* Alan Kay
+* Douglas Hofsteder
+* John Von Neumann
+* Alan Turing
+* Donald Knuth
+* Functional Programming (FP)
+* Functional Reactive Programming (FRP)
+* Object-Oriented Programming (OOP)
+* Aspect Oriented Programming (AOP)
+* Actor Model
+* Procedural / Imperative Programming
+* Logic Programming
+* Machine Learning (ML)
+* Artificial Intelligence (AI)
+* Neural Network
+* Genetic Algorithm
+* Back-propagation
+* Dropout (Machine Learning)
+* Supervised Learning
+* Unsupervised Learning
+* Tensorflow
+* Pytorch
+* Keras
 * Coding
-  - function
-  - closure
-  - parameter
-  - argument
-  - class
-  - implements
-  - inherits / extends
-  - variable
-  - partial application
-  - constant
-  - interface
-  - constructor
-  - super()
-  - constructor chaining
-  - base class
-  - mixin
-  - module
-  - module import
-  - public accessibility
-  - private accessibility
-  - protected accessibility
-  - hashset / dictionary / Map
-  - generator / enumerable
-  - iterator / enumerator
-  - expression
-  - expression tree
-  - s-expression
-  - comprehension
-  - loop
-  - foreach
-  - for loop
-  - while
-  - do...while
-  - block
-  - scope
-  - lexical scoping
-  - dynamic scoping
-  - hoisting
-  - field / attribute
-  - property
-  - method
-  - decorator / attribute / annotation
-  - string
-  - array
-  - map / select
-  - filter / where
-  - reduce / aggregate / fold
-  - float
-  - double
-  - integer / int
-  - boolean / bool
-  - primitive
-  - generics
+* function (coding)
+* closure (coding)
+* parameter (coding)
+* argument (coding)
+* class
+* implements (coding)
+* inherits / extends (coding)
+* variable (coding)
+* partial application
+* constant (coding)
+* interface (coding)
+* constructor (coding)
+* super()
+* constructor chaining
+* base class (coding)
+* mixin (coding)
+* module (coding)
+* module import (coding)
+* public accessibility
+* private accessibility
+* protected accessibility
+* hashset / dictionary / Map
+* generator / enumerable
+* iterator / enumerator
+* expression (coding)
+* expression tree
+* s-expression
+* comprehension (coding)
+* loop (coding)
+* foreach
+* for loop
+* while
+* do...while
+* block (coding)
+* scope (coding)
+* lexical scoping
+* dynamic scoping
+* hoisting (coding)
+* field / attribute (coding)
+* property (coding)
+* method (coding)
+* decorator / attribute / annotation (coding)
+* string
+* array
+* map / select
+* filter / where
+* reduce / aggregate / fold
+* float (coding)
+* double (coding)
+* integer / int
+* boolean / bool
+* primitive (coding)
+* generics (coding)
