@@ -340,104 +340,104 @@ Look at [[https://glossarytech.com/terms/software_architecture/page2][Glossary T
 | Internet of Things (IOT)                             |                                                                                                                                                                    |
 | Raspberry Pi                                         |                                                                                                                                                                    |
 | Arduino                                              |                                                                                                                                                                    |
+| Tableau                                              |                                                                                                                                                                    |
 | Data Science                                         |                                                                                                                                                                    |
-  - Tableau
-| Big O Notation |  |
-| Algorithms |  |
-| Data Structures |  |
-| Tree |  |
-| B-Tree |  |
-| Tail Call Optimization (TCO) |  |
-| Type Theory |  |
-| linked list |  |
-| Garbage Collection |  |
-| bit |  |
-| byte |  |
-| Computability |  |
-| Constraint Satisfaction |  |
-| Quantum Computing |  |
-| Turing Machine |  |
-| Lambda Calculus |  |
-| Caching |  |
-| Alan Kay |  |
-| Douglas Hofsteder |  |
-| John Von Neumann |  |
-| Alan Turing |  |
-| Donald Knuth |  |
-| Functional Programming (FP) |  |
-| Functional Reactive Programming (FRP) |  |
-| Object-Oriented Programming (OOP) |  |
-| Aspect Oriented Programming (AOP) |  |
-| Actor Model |  |
-| Procedural / Imperative Programming |  |
-| Logic Programming |  |
-| Machine Learning (ML) |  |
-| Artificial Intelligence (AI) |  |
-| Neural Network |  |
-| Genetic Algorithm |  |
-| Back-propagation |  |
-| Dropout (Machine Learning) |  |
-| Supervised Learning |  |
-| Unsupervised Learning |  |
-| Tensorflow |  |
-| Pytorch |  |
-| Keras |  |
-| Coding |  |
-| function (coding) |  |
-| closure (coding) |  |
-| parameter (coding) |  |
-| argument (coding) |  |
-| class |  |
-| implements (coding) |  |
-| inherits / extends (coding) |  |
-| variable (coding) |  |
-| partial application |  |
-| constant (coding) |  |
-| interface (coding) |  |
-| constructor (coding) |  |
-| super() |  |
-| constructor chaining |  |
-| base class (coding) |  |
-| mixin (coding) |  |
-| module (coding) |  |
-| module import (coding) |  |
-| public accessibility |  |
-| private accessibility |  |
-| protected accessibility |  |
-| hashset / dictionary / Map |  |
-| generator / enumerable |  |
-| iterator / enumerator |  |
-| expression (coding) |  |
-| expression tree |  |
-| s-expression |  |
-| comprehension (coding) |  |
-| loop (coding) |  |
-| foreach |  |
-| for loop |  |
-| while |  |
-| do...while |  |
-| block (coding) |  |
-| scope (coding) |  |
-| lexical scoping |  |
-| dynamic scoping |  |
-| hoisting (coding) |  |
-| field / attribute (programming languges) |  |
-| property (programming languges) |  |
-| method (programming languges) |  |
-| decorator / attribute / annotation (coding) |  |
-| string |  |
-| array |  |
-| map / select |  |
-| filter / where |  |
-| reduce / aggregate / fold |  |
-| float (coding) |  |
-| double (coding) |  |
-| integer / int |  |
-| boolean / bool |  |
-| primitive (programming languges) |  |
-| generics (programming languges) |  |
-| Koans |  |
-| Code Kata |  |
-| immutable data |  |
-| Ecmascript |  |
-| Es6 |  |
+| Big O Notation                                       |                                                                                                                                                                    |
+| Algorithms                                           |                                                                                                                                                                    |
+| Data Structures                                      |                                                                                                                                                                    |
+| Tree                                                 |                                                                                                                                                                    |
+| B-Tree                                               |                                                                                                                                                                    |
+| Tail Call Optimization (TCO)                         |                                                                                                                                                                    |
+| Type Theory                                          |                                                                                                                                                                    |
+| linked list                                          |                                                                                                                                                                    |
+| Garbage Collection                                   |                                                                                                                                                                    |
+| bit                                                  |                                                                                                                                                                    |
+| byte                                                 |                                                                                                                                                                    |
+| Computability                                        |                                                                                                                                                                    |
+| Constraint Satisfaction                              |                                                                                                                                                                    |
+| Quantum Computing                                    |                                                                                                                                                                    |
+| Turing Machine                                       |                                                                                                                                                                    |
+| Lambda Calculus                                      |                                                                                                                                                                    |
+| Caching                                              |                                                                                                                                                                    |
+| Alan Kay                                             |                                                                                                                                                                    |
+| Douglas Hofsteder                                    |                                                                                                                                                                    |
+| John Von Neumann                                     |                                                                                                                                                                    |
+| Alan Turing                                          |                                                                                                                                                                    |
+| Donald Knuth                                         |                                                                                                                                                                    |
+| Functional Programming (FP)                          |                                                                                                                                                                    |
+| Functional Reactive Programming (FRP)                |                                                                                                                                                                    |
+| Object-Oriented Programming (OOP)                    |                                                                                                                                                                    |
+| Aspect Oriented Programming (AOP)                    |                                                                                                                                                                    |
+| Actor Model                                          |                                                                                                                                                                    |
+| Procedural / Imperative Programming                  |                                                                                                                                                                    |
+| Logic Programming                                    |                                                                                                                                                                    |
+| Machine Learning (ML)                                |                                                                                                                                                                    |
+| Artificial Intelligence (AI)                         |                                                                                                                                                                    |
+| Neural Network                                       |                                                                                                                                                                    |
+| Genetic Algorithm                                    |                                                                                                                                                                    |
+| Back-propagation                                     |                                                                                                                                                                    |
+| Dropout (Machine Learning)                           |                                                                                                                                                                    |
+| Supervised Learning                                  |                                                                                                                                                                    |
+| Unsupervised Learning                                |                                                                                                                                                                    |
+| Tensorflow                                           |                                                                                                                                                                    |
+| Pytorch                                              |                                                                                                                                                                    |
+| Keras                                                |                                                                                                                                                                    |
+| Coding                                               |                                                                                                                                                                    |
+| function (coding)                                    |                                                                                                                                                                    |
+| closure (coding)                                     |                                                                                                                                                                    |
+| parameter (coding)                                   |                                                                                                                                                                    |
+| argument (coding)                                    |                                                                                                                                                                    |
+| class                                                |                                                                                                                                                                    |
+| implements (coding)                                  |                                                                                                                                                                    |
+| inherits / extends (coding)                          |                                                                                                                                                                    |
+| variable (coding)                                    |                                                                                                                                                                    |
+| partial application                                  |                                                                                                                                                                    |
+| constant (coding)                                    |                                                                                                                                                                    |
+| interface (coding)                                   |                                                                                                                                                                    |
+| constructor (coding)                                 |                                                                                                                                                                    |
+| super()                                              |                                                                                                                                                                    |
+| constructor chaining                                 |                                                                                                                                                                    |
+| base class (coding)                                  |                                                                                                                                                                    |
+| mixin (coding)                                       |                                                                                                                                                                    |
+| module (coding)                                      |                                                                                                                                                                    |
+| module import (coding)                               |                                                                                                                                                                    |
+| public accessibility                                 |                                                                                                                                                                    |
+| private accessibility                                |                                                                                                                                                                    |
+| protected accessibility                              |                                                                                                                                                                    |
+| hashset / dictionary / Map                           |                                                                                                                                                                    |
+| generator / enumerable                               |                                                                                                                                                                    |
+| iterator / enumerator                                |                                                                                                                                                                    |
+| expression (coding)                                  |                                                                                                                                                                    |
+| expression tree                                      |                                                                                                                                                                    |
+| s-expression                                         |                                                                                                                                                                    |
+| comprehension (coding)                               |                                                                                                                                                                    |
+| loop (coding)                                        |                                                                                                                                                                    |
+| foreach                                              |                                                                                                                                                                    |
+| for loop                                             |                                                                                                                                                                    |
+| while                                                |                                                                                                                                                                    |
+| do...while                                           |                                                                                                                                                                    |
+| block (coding)                                       |                                                                                                                                                                    |
+| scope (coding)                                       |                                                                                                                                                                    |
+| lexical scoping                                      |                                                                                                                                                                    |
+| dynamic scoping                                      |                                                                                                                                                                    |
+| hoisting (coding)                                    |                                                                                                                                                                    |
+| field / attribute (programming languges)             |                                                                                                                                                                    |
+| property (programming languges)                      |                                                                                                                                                                    |
+| method (programming languges)                        |                                                                                                                                                                    |
+| decorator / attribute / annotation (coding)          |                                                                                                                                                                    |
+| string                                               |                                                                                                                                                                    |
+| array                                                |                                                                                                                                                                    |
+| map / select                                         |                                                                                                                                                                    |
+| filter / where                                       |                                                                                                                                                                    |
+| reduce / aggregate / fold                            |                                                                                                                                                                    |
+| float (coding)                                       |                                                                                                                                                                    |
+| double (coding)                                      |                                                                                                                                                                    |
+| integer / int                                        |                                                                                                                                                                    |
+| boolean / bool                                       |                                                                                                                                                                    |
+| primitive (programming languges)                     |                                                                                                                                                                    |
+| generics (programming languges)                      |                                                                                                                                                                    |
+| Koans                                                |                                                                                                                                                                    |
+| Code Kata                                            |                                                                                                                                                                    |
+| immutable data                                       |                                                                                                                                                                    |
+| Ecmascript                                           |                                                                                                                                                                    |
+| Es6                                                  |                                                                                                                                                                    |
