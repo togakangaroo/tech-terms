@@ -419,9 +419,9 @@ Look at [[https://glossarytech.com/terms/software_architecture/page2][Glossary T
 | lexical scoping |  |
 | dynamic scoping |  |
 | hoisting (coding) |  |
-| field / attribute (coding) |  |
-| property (coding) |  |
-| method (coding) |  |
+| field / attribute (programming languges) |  |
+| property (programming languges) |  |
+| method (programming languges) |  |
 | decorator / attribute / annotation (coding) |  |
 | string |  |
 | array |  |
@@ -432,7 +432,10 @@ Look at [[https://glossarytech.com/terms/software_architecture/page2][Glossary T
 | double (coding) |  |
 | integer / int |  |
 | boolean / bool |  |
-| primitive (coding) |  |
-| generics (coding) |  |
+| primitive (programming languges) |  |
+| generics (programming languges) |  |
 | Koans |  |
 | Code Kata |  |
+| immutable data |  |
+| Ecmascript |  |
+| Es6 |  |
