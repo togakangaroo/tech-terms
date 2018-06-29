@@ -8,8 +8,8 @@ A repository of technical terms and definitions. Eventually to be converted to f
 
 The idea is that this list is optimized for rote memorization - so each definition is short and presentable in flash-card format. The theory is that by memorizing this terminology, a beginner will get immediately situated within the terminology of the world of develoment.
 
-- [ ] Put together big, unsorted list of terms to define (aim for a few hundred terms)
-- [ ] Denormalize and flatten list
+- [x] Put together big, unsorted list of terms to define (aim for a few hundred terms)
+- [x] Denormalize and flatten list
 - [ ] Define terms
 - [ ] Create transformer to transform into [Anki](http://ankiweb.net/)
 - [ ] Create and administer a poll to figure out the most important terms
@@ -17,4 +17,4 @@ The idea is that this list is optimized for rote memorization - so each definiti
 
 ## Contribute
 
-Terms are written in org mode. For now just give a regular Pull Request. I'll take care of merging for now.
+Terms are written in org mode. For now just give a regular pull request. I'll take care of merging for now.
