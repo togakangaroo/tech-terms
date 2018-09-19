@@ -18,3 +18,9 @@ The idea is that this list is optimized for rote memorization - so each definiti
 ## Contribute
 
 Terms are written in org mode. For now just give a regular pull request. I'll take care of merging for now.
+
+## Future Work
+
+
+Look at [Glossary Tech](https://glossarytech.com/terms/software_architecture/page2), maybe scrape it
+

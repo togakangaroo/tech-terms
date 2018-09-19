@@ -1,6 +1,3 @@
-Look at [[https://glossarytech.com/terms/software_architecture/page2][Glossary Tech]], maybe scrape it
-
-
 | Tools                                                | Either code or software that is used by developers in running or building software.                                                                                                                                          |
 | Framework                                            | Code, typically written by someone else, that can be used to speed up development and provide structure to project code.                                                                                                     |
 | Library                                              | Code, typically written by someone else, that can be used to provide a specific solution.                                                                                                                                    |
