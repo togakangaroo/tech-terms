@@ -10,7 +10,7 @@ The idea is that this list is optimized for rote memorization - so each definiti
 
 - [x] Put together big, unsorted list of terms to define (aim for a few hundred terms)
 - [x] Denormalize and flatten list
-- [ ] Define terms
+- [x] Define terms
 - [ ] Create transformer to transform into [Anki](http://ankiweb.net/)
 - [ ] Create and administer a poll to figure out the most important terms
 - [ ] Create several sets of flashcards of increasing granularity
