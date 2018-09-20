@@ -11,7 +11,7 @@ The idea is that this list is optimized for rote memorization - so each definiti
 - [x] Put together big, unsorted list of terms to define (aim for a few hundred terms)
 - [x] Denormalize and flatten list
 - [x] Define terms
-- [ ] Create transformer to transform into [Anki](http://ankiweb.net/)
+- [x] Create transformer to transform into [Anki](http://ankiweb.net/)
 - [ ] Create and administer a poll to figure out the most important terms
 - [ ] Create several sets of flashcards of increasing granularity
 
@@ -19,8 +19,29 @@ The idea is that this list is optimized for rote memorization - so each definiti
 
 Terms are written in org mode. For now just give a regular pull request. I'll take care of merging for now.
 
-## Future Work
+### Python Script To Build Anki apkg file
 
+You can generate an apkg file from terms.org by running `parse_terms.py` from the `generator/` directory. For this you will need a version of Python 3 and [Pipenv](https://pipenv.readthedocs.io/en/latest/). Nothing will be installed globally.
+
+    > cd generator
+    generator> pipenv install
+    generator> pipenv run python ./parse_terms.py
+    
+This will generate a `tech_terms.apkg` file in that directory. This file can now be opened with Anki.
+
+### Jupyter Notebook
+
+There is the `generator/playground.ipynb` for playing around with the script. To run it you must first [set up the pipenv environment as a Jupyter kernel target](https://stackoverflow.com/questions/47295871/is-there-a-way-to-use-pipenv-with-jupyter-notebook).
+
+To run it
+
+    > cd generator
+    generator> pipenv install --dev
+    generator> pipenv run python -m ipykernel install --user --name=tech-terms-generator
+    
+You may then run `jupyter notebook` as normal an select this kernel
+
+## Future Work
 
 Look at [Glossary Tech](https://glossarytech.com/terms/software_architecture/page2), maybe scrape it
 
