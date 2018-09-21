@@ -2,6 +2,8 @@
 
 # Tech Terms
 
+[See the current list of tech terms](https://github.com/togakangaroo/tech-terms/blob/master/terms.org)
+
 ## Background
 
 Throughout most of my life I've been very negative on the role of memorization in education, considering it a bad way to learn a topic and frankly, beneath me. Still, when I found about [Anki](http://ankiweb.net/) in late 2017 I - after browsing some of the shared decks - decided to try it to do something I've always wanted to do: memorize all the Chinese provinces and their capitals. 
