@@ -21,9 +21,11 @@ So this is a project to create a list of terms that might be helpful for familia
 - [x] Put together big, unsorted list of terms to define (aim for a few hundred terms)
 - [x] Denormalize and flatten list
 - [x] Define terms
-- [x] Create transformer to transform into [Anki](http://ankiweb.net/)
+- [x] Create transformer to transform into [Anki](http://ankiweb.net/).
+- [x] [Publish shared deck](https://ankiweb.net/shared/info/40916824)
 - [ ] Create and administer a poll to figure out the most important terms
 - [ ] Create several sets of flashcards of increasing granularity
+- [ ] $$$ ~Profit~ (Won't work, this is licensed as Creative Commons)
 
 ## Contribute
 
@@ -54,9 +56,9 @@ To run it
     generator> pipenv install --dev
     generator> pipenv run python -m ipykernel install --user --name=tech-terms-generator
     
-You may then run `jupyter notebook` as normal an select this kernel
+You may then run `jupyter notebook` as normal and select this kernel
 
 ## Future Work
 
-Look at [Glossary Tech](https://glossarytech.com/terms/software_architecture/page2), maybe scrape it
+Look at [Glossary Tech](https://glossarytech.com/terms/software_architecture/page2), can we integrate that somehow? What is their license? How do we control quality?
 
