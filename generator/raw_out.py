@@ -1,33 +1,42 @@
 import re
-from collections import defaultdict
-from typing import DefaultDict
-from typing import List
+from typing import Dict, List, Pattern, Generator
 
 import requests
 
-TERM_URL = 'https://raw.githubusercontent.com/togakangaroo/tech-terms/master/terms.org'
 
+class TechTerms:
+    TERM_URL = 'https://raw.githubusercontent.com/togakangaroo/tech-terms/master/terms.org'
 
-def convert_to_dict_list(items: List[dict]) -> DefaultDict[str, list]:
-    terms: DefaultDict[str, list] = defaultdict(list)
+    def __init__(self):
+        self.terms = self.parse_ank_raw_from_source()
 
-    for item in items:
-        terms[item['term']].append(item['definition'])
+    def _parse_ank_raw_from_source(self) -> Dict[str, list]:
+        two_col_org_row: Pattern[str] = self.compile_regex_from_parts()
 
-    return terms
+        content = self.grab_data_from_github()
 
+        lines: List[str] = content.splitlines()
 
-def parse_ank_raw_from_source() -> DefaultDict[str, list]:
-    r = requests.get(TERM_URL)
-    content = r.content
+        return {x['term']: x['definition'] for x in self.filter_matches(lines, two_col_org_row)}
 
-    # this regex matches 
-    two_col_org_row = re.compile('^\\s*\\|\\s*(?P<term>.*?)\\s*\\|\\s*(?P<definition>.*?)\\s*\\|\\s*$')
-    lines = content.splitlines()
-    extracted_cells = (two_col_org_row.match(l.decode("utf-8")).groupdict() for l in lines)
+    def _grab_data_from_github(self) -> str:
+        r = requests.get(self.TERM_URL)
+        return r.content.decode('utf-8')
 
-    return convert_to_dict_list(list(extracted_cells))
+    def _compile_regex_from_parts(self) -> Pattern[str]:
+        n_spaces_pipe_n_spaces = '\\s*\\|\\s*'
+        non_greedy_group_of_chars = '.*?'
+        regex_string = f'^{n_spaces_pipe_n_spaces}(?P<term>{non_greedy_group_of_chars})' \
+                       f'{n_spaces_pipe_n_spaces}(?P<definition>{non_greedy_group_of_chars}){n_spaces_pipe_n_spaces}$'
+
+        return re.compile(regex_string)
+
+    def _filter_matches(self, lines: List[str], two_col_org_row: Pattern[str]) -> Generator[dict, None, None]:
+        for line in lines:
+            match = two_col_org_row.match(line).groupdict()
+            if match.get('term') and match.get('definition'):
+                yield match
 
 
 if __name__ == '__main__':
-    parse_ank_raw_from_source()
+    print(TechTerms().terms)
