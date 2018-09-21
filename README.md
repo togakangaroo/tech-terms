@@ -26,7 +26,6 @@ So this is a project to create a list of terms that might be helpful for familia
 - [ ] Create and administer a poll to figure out the most important terms
 - [ ] Create several sets of flashcards of increasing granularity
 - [ ] $$$ ~Profit~ (Won't work, this is licensed as Creative Commons)
-- [ ] Determine how to deal with duplicates
 
 ## Contribute
 
