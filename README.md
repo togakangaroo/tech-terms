@@ -4,6 +4,8 @@
 
 [See the current list of tech terms](https://github.com/togakangaroo/tech-terms/blob/master/terms.org)
 
+[See the current shared Anki flashcard deck](https://ankiweb.net/shared/info/40916824)
+
 ## Background
 
 Throughout most of my life I've been very negative on the role of memorization in education, considering it a bad way to learn a topic and frankly, beneath me. Still, when I found about [Anki](http://ankiweb.net/) in late 2017 I - after browsing some of the shared decks - decided to try it to do something I've always wanted to do: memorize all the Chinese provinces and their capitals. 
@@ -12,7 +14,7 @@ Shocked at how effective this was, I continued with geography; memorizing all th
 
 I am a software developer and [a manager](https://www.surgeforward.com/our-team/). As part of my job, I act as support to sales and recruiters who frequently refer to me to orient them with one piece of tech or another. More importantly, I do a great deal of mentoring, spending a lot of time helping novices with organizations like [Operation Code](http://operationcode.org) and [Operation Spark](https://operationspark.org/) (no relation to each other). I have seen over and over again people get completely overwhelmed and disoriented with the amount of information, areas of competency, and just flat out terminology out there. It is my contention that the same memorization techniques can help get people grounded in the field.
 
-So this is a project to create a list of terms that might be helpful for familiarizing someone with the industry and in general how developers speak. Each term is accompanied by a short, flash-card-able definition. The goal is not to be comprehensive or even very precise, just to give users enough of a head start to make the rest of their journey easier.
+So this is a project to create a list of terms that might be helpful for familiarizing someone with the industry and in general how developers speak. Each term is accompanied by a short, [flash-card-able](https://ankiweb.net/shared/info/40916824) definition. The goal is not to be comprehensive or even very precise, just to give users enough of a head start to make the rest of their journey easier.
 
 ## Plan
 
