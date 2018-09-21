@@ -8,16 +8,16 @@ class TechTerms:
     TERM_URL = 'https://raw.githubusercontent.com/togakangaroo/tech-terms/master/terms.org'
 
     def __init__(self):
-        self.terms = self.parse_ank_raw_from_source()
+        self.terms = self._parse_ank_raw_from_source()
 
     def _parse_ank_raw_from_source(self) -> Dict[str, list]:
-        two_col_org_row: Pattern[str] = self.compile_regex_from_parts()
+        two_col_org_row: Pattern[str] = self._compile_regex_from_parts()
 
-        content = self.grab_data_from_github()
+        content = self._grab_data_from_github()
 
         lines: List[str] = content.splitlines()
 
-        return {x['term']: x['definition'] for x in self.filter_matches(lines, two_col_org_row)}
+        return {x['term']: x['definition'] for x in self._filter_matches(lines, two_col_org_row)}
 
     def _grab_data_from_github(self) -> str:
         r = requests.get(self.TERM_URL)
