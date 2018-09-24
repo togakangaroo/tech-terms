@@ -2,9 +2,10 @@
 
 # Tech Terms
 
-[See the current list of tech terms](https://github.com/togakangaroo/tech-terms/blob/master/terms.org)
 
-[See the current shared Anki flashcard deck](https://ankiweb.net/shared/info/40916824)
+* [Project launch announcement](http://georgemauer.net/2018/09/23/announcing-tech-terms-for-memorization.html)
+* [See the current list of tech terms](https://github.com/togakangaroo/tech-terms/blob/master/terms.org)
+* [See the current shared Anki flashcard deck](https://ankiweb.net/shared/info/40916824)
 
 ## Background
 
